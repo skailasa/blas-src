@@ -32,7 +32,7 @@ version = "0.3"
 optional = true
 
 [dependencies.blis-src]
-version = "0.2"
+version = "0.2.2"
 optional = true
 
 [dependencies.intel-mkl-src]
